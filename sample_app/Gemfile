@@ -1,0 +1,4 @@
+# sample_app/Gemfile
+source 'https://rubygems.org'
+
+gem 'json'
